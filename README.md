@@ -73,7 +73,7 @@
 <body>
     <div class="password-container">
         <h1>Before you proceed, please enter password.</h1>
-        <input type="password" id="password" placeholder="Password">
+        <input type="password" id="password" placeholder="rubio2024">
         <button onclick="checkPassword()">Submit</button>
         <p id="error" class="error"></p>
     </div>
